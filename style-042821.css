@@ -1507,18 +1507,10 @@ figcaption,
 	text-align: center;
 }
 
-.home .entry-header,
-.page-id-170 .entry-header {
+.home .entry-header {
     text-align: center;
     display: none;
 }
-
-/* --- Home Option 2 --- */
-.page-id-170 .site-inner {
-    margin-top: -8px !important;
-}
-
-
 
 .entry-header::after {
 	border-bottom: 1px solid #000;
